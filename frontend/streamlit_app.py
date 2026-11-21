@@ -10,7 +10,7 @@ SAMPLE_DOCS_DIR = Path("data/sample_docs")
 
 SAMPLE_DOCUMENTS = [
   ("🏥", "Healthcare Handbook", "healthcare_handbook.txt", "Hospital policies and HIPAA rules", "#0EA5E9"),
-  ("👥", "HR Employee Handbook", "hr_employee_handbook.txt", "PTO, remote work, and benefits", "#8B5CF6"),
+  ("👩🏻‍💻", "HR Employee Handbook", "hr_employee_handbook.txt", "PTO, remote work, and benefits", "#8B5CF6"),
   ("🔐", "IT Security Policy", "it_security_policy.txt", "Passwords, VPN, and security", "#F59E0B"),
   ("💳", "Finance Expense Policy", "finance_expense_policy.txt", "Travel limits and expense rules", "#10B981"),
 ]
